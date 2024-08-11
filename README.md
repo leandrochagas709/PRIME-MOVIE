@@ -1,5 +1,3 @@
-# PRIME-MOVIE
-
 <p align="center">
   <a href="https://marvelous-hotteok-4c6c89.netlify.app/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -46,4 +44,5 @@ Você pode visualizar o layout do projeto através [desse link](https://marvelou
 Link API utilizado:
 <p>The movie DB utilizado no projeto, para ser adicionado os lançamentos de filmes da sua preferência no projeto.</p>
 https://www.themoviedb.org/settings/api
+
 
